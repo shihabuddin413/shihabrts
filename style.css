@@ -49,7 +49,7 @@ h5{
     padding: 10px;
     margin: 30px;
     font-size: 1.5em;
-    background-color: rgb(25, 30, 35, .4);
+    background-color: rgba(25, 30, 35, .4);
     border: 1px solid rgba(25, 30, 35, .4);
     border-radius: 20px;
     

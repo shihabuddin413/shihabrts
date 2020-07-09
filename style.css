@@ -8,7 +8,7 @@ h1{
     font-size: 1.7em;
 }
 h5{
-    font-size: 0.7em;
+    font-size: 0.5em;
 }
 
 .half_width{
@@ -58,8 +58,8 @@ h5{
 .experience-item{
     padding: 10px;
     border: 1px solid rgba(25, 30, 35, .2);
-    font-size: 0.5em;
+    font-size: 0.4em;
     color: #8845f4;
     background-color: rgb(255, 255, 255);
-    line-height: 22px;
+    line-height: 15px;
 }

@@ -7,6 +7,9 @@ body{
 h1{
     font-size: 1.7em;
 }
+h5{
+    font-size: 1.3em;
+}
 
 .half_width{
     width: 50%;

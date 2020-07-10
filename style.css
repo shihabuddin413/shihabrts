@@ -31,14 +31,14 @@ h5{
 
 .exp_title{
     font-family: 'Grenze Gotisch', cursive;
-    color: purple;
+    color: gray;
     font-size: 0.7em;
     line-height: 20px;
 }
 
 .exp_description{
     font-family: 'Grenze Gotisch', cursive;
-    color: purple;
+    color: gray;
     font-size: 0.4em;
     line-height: 15px;
 }
@@ -72,6 +72,6 @@ h5{
     padding: 15px;
     border: 1px solid rgba(25, 30, 35, .2);   
     color: #000000;
-    background-color: rgba(100, 110, 120, .1);
+    background-color: rgba(150, 160, 170, .1);
     line-height: 15px;
 }

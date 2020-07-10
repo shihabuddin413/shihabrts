@@ -11,6 +11,9 @@ h1{
 h5{
     font-size: 0.4em;
 }
+.name_color{
+   color: purple;
+}
 
 .half_width{
     width: 50%;

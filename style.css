@@ -1,14 +1,15 @@
 body{
     font-family: sans-serif;
     color: #777777;
-    line-height: 26px;
+    line-height: 29px;
+    font-size : 1.0em;
 }
 
 h1{
     font-size: 1.7em;
 }
 h5{
-    font-size: 0.6em;
+    font-size: 0.4em;
 }
 
 .half_width{

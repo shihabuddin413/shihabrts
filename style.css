@@ -1,5 +1,5 @@
 body{
-    font-family: cuative-mono;
+    font-family: 'Grenze Gotisch', cursive;
     color: #777777;
     line-height: 30px;
     font-size : 1.3em;
@@ -47,6 +47,7 @@ h5{
 }
 
 .experiences{
+    font-family: 'Grenze Gotisch', cursive;
     padding: 10px;
     margin: 30px;
     font-size: 1.5em;
@@ -57,6 +58,7 @@ h5{
 }
 
 .experience-item{
+    font-family: 'Grenze Gotisch', cursive;
     padding: 15px;
     border: 1px solid rgba(25, 30, 35, .2);
     font-size: 0.4em;

@@ -31,6 +31,8 @@ h5{
 
 .name_color{
     color: purple;
+    font-size: 0.2em;
+
 }
 
 .prime-btn{
@@ -60,8 +62,7 @@ h5{
 .experience-item{
     font-family: 'Grenze Gotisch', cursive;
     padding: 15px;
-    border: 1px solid rgba(25, 30, 35, .2);
-    font-size: 0.4em;
+    border: 1px solid rgba(25, 30, 35, .2);   
     color: #000000;
     background-color: rgba(100, 110, 120, .1);
     line-height: 15px;
